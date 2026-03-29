@@ -1207,7 +1207,7 @@ const SolutionViewer = ({ text, title }) => (
 const LoginScreen = ({ onLogin }) => {
   const [formData, setFormData] = useState({ name: '', email: '', secret: '' });
   const [error, setError] = useState('');
-  const handleSubmit = (e) => { e.preventDefault(); if (formData.secret !== 'NRU@Cs@21') { setError('⛔ ACCESS DENIED'); return; } onLogin(formData); };
+  const handleSubmit = (e) => { e.preventDefault(); if (formData.secret !== '@Cs@21') { setError('⛔ ACCESS DENIED'); return; } onLogin(formData); };
 
   return (
     <div className="flex items-center justify-center" style={{ minHeight: '80vh', padding: '16px', zIndex: 20, position: 'relative' }}>
