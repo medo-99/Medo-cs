@@ -10,7 +10,7 @@ const styles = `
   :root {
     --gold: #008000;
     --dark-bg: #7CFC00;
-    --panel-bg: rgba(15, 15, 15, 0.95);
+    --panel-bg:#7CFC00;
     --border-color: rgba(255, 213, 79, 0.2);
   }
 
