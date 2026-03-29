@@ -19,7 +19,7 @@ const styles = `
   body {
     font-family: 'Tajawal', sans-serif;
     background-color: var(--dark-bg);
-    color: #e0e0e0;
+    color: #7CFC00;
     overflow-x: hidden;
     line-height: 1.5;
     min-height: 100vh;
