@@ -8,7 +8,7 @@ const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Fira+Code:wght@400;500;700&family=Tajawal:wght@400;500;700;800&display=swap');
 
   :root {
-    --gold: #FFD54F;
+    --gold: #008000;
     --dark-bg: #000000;
     --panel-bg: rgba(15, 15, 15, 0.95);
     --border-color: rgba(255, 213, 79, 0.2);
